@@ -2,8 +2,7 @@
   "title": "Rainerle Pro-Wallpaper",
   "author": "finnderweise",
   "version": 1.0,
-  "thumbnail": "Noch undefiniert, lass mich kochen.",
-  "home-bg": "Noch undefiniert, lass mich kochen.",
-  "lockscreen-bg": "Noch undefiniert, lass mich kochen.",
-  "lockscreen-fg": "Noch undefiniert, lass mich kochen."
+  "home-bg": "https://finnderweise.github.io/fdw-tablet/rainerle.png",
+  "lockscreen-bg": "https://finnderweise.github.io/fdw-tablet/rainerle.png",
+  "lockscreen-fg": "https://finnderweise.github.io/fdw-tablet/rainerle2.png"
 }
