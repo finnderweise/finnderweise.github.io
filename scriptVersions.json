@@ -1,6 +1,6 @@
 {
   "fdw-tablet": {
-    "version": "0.49",
+    "version": "0.49.1",
     "changelog": "Dieses Update entfernt die Unterstützung der Calls-App und entfernt sie aus dem App Store.",
     "authors": "finnderweise",
     "icon": "images/apps/settings.png"
