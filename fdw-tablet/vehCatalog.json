@@ -23,7 +23,79 @@
       "brand": "Grotti",
       "price": 214000,
       "img": "https://wiki.rage.mp/w/images/thumb/9/9e/Cheetah.png/800px-Cheetah.png"
-    }
+    },
+    {
+      "model": "Cyclone",
+      "brand": "Coil",
+      "price": 300000,
+      "img": "https://wiki.rage.mp/w/images/thumb/7/79/Cyclone.png/800px-Cyclone.png"
+    },    
+    {
+      "model": "Entity XXR",
+      "brand": "Överflöd",
+      "price": 164000,
+      "img": "https://wiki.rage.mp/w/images/thumb/3/37/Entity2.jpg/800px-Entity2.jpg"
+    },
+    {
+      "model": "Entity XF",
+      "brand": "Överflöd",
+      "price": 180000,
+      "img": "https://wiki.rage.mp/w/images/thumb/6/61/Entityxf.png/800px-Entityxf.png"
+    },
+    {
+      "model": "Entity XXR",
+      "brand": "Överflöd",
+      "price": 164000,
+      "img": "https://wiki.rage.mp/w/images/thumb/3/37/Entity2.jpg/800px-Entity2.jpg"
+    },    
+    {
+      "model": "Emerus",
+      "brand": "Progen",
+      "price": 220000,
+      "img": "https://wiki.rage.mp/w/images/thumb/b/b9/Emerus.jpg/800px-Emerus.jpg"
+    },
+    {
+      "model": "FMJ",
+      "brand": "Vapid",
+      "price": 125000,
+      "img": "https://wiki.rage.mp/w/images/thumb/d/d2/Fmj.png/800px-Fmj.png"
+    },
+    {
+      "model": "Furia",
+      "brand": "Grotti",
+      "price": 230000,
+      "img": "https://wiki.rage.mp/w/images/thumb/a/a2/Furia.jpg/800px-Furia.jpg"
+    },
+    {
+      "model": "GP1",
+      "brand": "Progen",
+      "price": 110000,
+      "img": "https://wiki.rage.mp/w/images/thumb/a/a4/Gp1.png/800px-Gp1.png"
+    },
+    {
+      "model": "Infernus",
+      "brand": "Pegassi",
+      "price": 235000,
+      "img": "https://wiki.rage.mp/w/images/thumb/d/d2/Infernus.png/800px-Infernus.png"
+    },
+    {
+      "model": "Itali GTB",
+      "brand": "Progen",
+      "price": 164000,
+      "img": "https://wiki.rage.mp/w/images/thumb/d/dd/Italigtb.png/800px-Italigtb.png"
+    },
+    {
+      "model": "Itali GTB Custom",
+      "brand": "Progen",
+      "price": 250000,
+      "img": "https://wiki.rage.mp/w/images/thumb/5/57/Italigtb2.png/800px-Italigtb2.png"
+    },
+    {
+      "model": "Krieger",
+      "brand": "Benefactor",
+      "price": 220000,
+      "img": "https://wiki.rage.mp/w/images/thumb/c/c6/Krieger.jpg/800px-Krieger.jpg"
+    },
   ],
   "Sport": [
     {
