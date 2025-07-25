@@ -11,15 +11,7 @@
       "brand": "Överflöd",
       "price": 224000,
       "img": "https://wiki.rage.mp/w/images/thumb/3/38/Autarch.png/800px-Autarch.png"
-    }
-  ],
-  "Sport": [
-    {
-      "model": "Bestia GTS",
-      "brand": "Grotti",
-      "price": 37000,
-      "img": "https://wiki.rage.mp/w/images/thumb/5/5c/Bestiagts.png/800px-Bestiagts.png"
-    },    
+    }.
     {
       "model": "Bullet",
       "brand": "Vapid",
@@ -31,6 +23,14 @@
       "brand": "Grotti",
       "price": 214000,
       "img": "https://wiki.rage.mp/w/images/thumb/9/9e/Cheetah.png/800px-Cheetah.png"
+    }
+  ],
+  "Sport": [
+    {
+      "model": "Bestia GTS",
+      "brand": "Grotti",
+      "price": 37000,
+      "img": "https://wiki.rage.mp/w/images/thumb/5/5c/Bestiagts.png/800px-Bestiagts.png"
     }
   ],
   "Motorräder": [
