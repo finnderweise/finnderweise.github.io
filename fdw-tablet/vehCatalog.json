@@ -27,10 +27,10 @@
       "img": "https://static.wikia.nocookie.net/gtawiki/images/e/e1/BuffaloS-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20150531171438"
     },
     {
-      "model": "Baller",
-      "brand": "Gallivanter",
-      "price": 5000,
-      "img": "https://static.wikia.nocookie.net/gtawiki/images/f/fc/Baller-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/1000?cb=20250208193111"
+      "model": "Dominator",
+      "brand": "Vapid",
+      "price": 27500,
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/7/78/Dominator-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20160702195350"
     }
   ],
   "SUV": [
@@ -39,6 +39,12 @@
       "brand": "Declasse",
       "price": 68000,
       "img": "https://static.wikia.nocookie.net/gtawiki/images/7/75/Granger3600LX-GTAOe-front.png/revision/latest/scale-to-width-down/1000?cb=20211223020048"
+    },
+    {
+      "model": "Baller",
+      "brand": "Gallivanter",
+      "price": 5000,
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/f/fc/Baller-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/1000?cb=20250208193111"
     }
   ]
 }
