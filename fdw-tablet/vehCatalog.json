@@ -1,10 +1,22 @@
 {
-  "Sport": [
+  "Supersport": [
     {
       "model": "Sultan RS",
       "brand": "Annis",
       "price": 75000,
-      "img": "img/sultan.jpg"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/c/c1/SultanRS-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20160128182129"
+    },
+    {
+      "model": "T20",
+      "brand": "Progen",
+      "price": 1250000,
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/c/c1/SultanRS-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20160128182129"
+    },
+    {
+      "model": "Voltic",
+      "brand": "Coil",
+      "price": 990000,
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/1/1b/VolticTopless-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20161111200415"
     }
   ],
   "Muscle": [
@@ -12,7 +24,13 @@
       "model": "Buffalo S",
       "brand": "Bravado",
       "price": 62000,
-      "img": "img/buffalo.jpg"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/e/e1/BuffaloS-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20150531171438"
+    },
+    {
+      "model": "Baller",
+      "brand": "Gallivanter",
+      "price": 5000,
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/f/fc/Baller-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/1000?cb=20250208193111"
     }
   ],
   "SUV": [
@@ -20,7 +38,7 @@
       "model": "Granger 3600LX",
       "brand": "Declasse",
       "price": 68000,
-      "img": "img/granger.jpg"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/7/75/Granger3600LX-GTAOe-front.png/revision/latest/scale-to-width-down/1000?cb=20211223020048"
     }
   ]
 }
