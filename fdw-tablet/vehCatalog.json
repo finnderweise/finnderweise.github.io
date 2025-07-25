@@ -1,0 +1,26 @@
+{
+  "Sport": [
+    {
+      "model": "Sultan RS",
+      "brand": "Annis",
+      "price": 75000,
+      "img": "img/sultan.jpg"
+    }
+  ],
+  "Muscle": [
+    {
+      "model": "Buffalo S",
+      "brand": "Bravado",
+      "price": 62000,
+      "img": "img/buffalo.jpg"
+    }
+  ],
+  "SUV": [
+    {
+      "model": "Granger 3600LX",
+      "brand": "Declasse",
+      "price": 68000,
+      "img": "img/granger.jpg"
+    }
+  ]
+}
