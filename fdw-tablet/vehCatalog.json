@@ -1,26 +1,74 @@
 {
   "Supersport": [
     {
-      "model": "Modell",
-      "brand": "Marke",
-      "price": 0,
-      "img": ""
+      "model": "Adder",
+      "brand": "Truffade",
+      "price": 280000,
+      "img": "https://wiki.rage.mp/w/images/thumb/c/c2/Adder.png/800px-Adder.png"
+    },
+    {
+      "model": "Autarch",
+      "brand": "Överflöd",
+      "price": 224000,
+      "img": "https://wiki.rage.mp/w/images/thumb/3/38/Autarch.png/800px-Autarch.png"
     }
   ],
   "Sport": [
     {
-      "model": "Modell",
-      "brand": "Marke",
-      "price": 0,
-      "img": ""
+      "model": "Bestia GTS",
+      "brand": "Grotti",
+      "price": 37000,
+      "img": "https://wiki.rage.mp/w/images/thumb/5/5c/Bestiagts.png/800px-Bestiagts.png"
+    },    
+    {
+      "model": "Bullet",
+      "brand": "Vapid",
+      "price": 120000,
+      "img": "https://wiki.rage.mp/w/images/thumb/7/7a/Bullet.png/800px-Bullet.png"
+    },
+    {
+      "model": "Cheetah",
+      "brand": "Grotti",
+      "price": 214000,
+      "img": "https://wiki.rage.mp/w/images/thumb/9/9e/Cheetah.png/800px-Cheetah.png"
     }
   ],
   "Motorräder": [
     {
-      "model": "Modell",
-      "brand": "Marke",
-      "price": 0,
-      "img": ""
+      "model": "Bati 801",
+      "brand": "Pegassi",
+      "price": 24000,
+      "img": "https://wiki.rage.mp/w/images/thumb/c/ce/Bati.png/800px-Bati.png"
+    },
+    {
+      "model": "Bati 801RR",
+      "brand": "Pegassi",
+      "price": 19000,
+      "img": "https://wiki.rage.mp/w/images/thumb/6/60/Bati2.png/800px-Bati2.png"
+    },
+    {
+      "model": "BF400",
+      "brand": "Nagasaki",
+      "price": 22000,
+      "img": "https://wiki.rage.mp/w/images/thumb/3/3a/BF400.png/800px-BF400.png"
+    },
+    {
+      "model": "Hakuchou",
+      "brand": "Shitzu",
+      "price": 17000,
+      "img": "https://wiki.rage.mp/w/images/thumb/2/23/Hakuchou.png/800px-Hakuchou.png"
+    },
+    {
+      "model": "Manchez Scout",
+      "brand": "Maibatsu",
+      "price": 14000,
+      "img": "https://gtacars.net/images/d6f6ff79b8d83cc7a635913ede689f4e"
+    },
+    {
+      "model": "Reever",
+      "brand": "Western",
+      "price": 25000,
+      "img": "https://wiki.rage.mp/w/images/thumb/0/00/Reever.jpg/800px-Reever.jpg"
     }
   ]
 }
