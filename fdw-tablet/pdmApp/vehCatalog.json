@@ -1,0 +1,914 @@
+{
+  "Supersport": [
+    {
+      "model": "LM87",
+      "brand": "Benefactor",
+      "price": 155000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Krieger",
+      "brand": "Benefactor",
+      "price": 222000,
+      "img": "https://wiki.rage.mp/w/images/thumb/c/c6/Krieger.jpg/800px-Krieger.jpg"
+    },
+    {
+      "model": "Taipan",
+      "brand": "Cheval",
+      "price": 1850000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Voltic",
+      "brand": "Coil",
+      "price": 120000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Cyclone",
+      "brand": "Coil",
+      "price": 300000,
+      "img": "https://wiki.rage.mp/w/images/thumb/7/79/Cyclone.png/800px-Cyclone.png"
+    },
+    {
+      "model": "Rocket Voltic",
+      "brand": "Coil",
+      "price": 9830400,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "ETR1",
+      "brand": "Emperor",
+      "price": 220000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Cheetah Classic",
+      "brand": "Grotti",
+      "price": 195000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Cheetah",
+      "brand": "Grotti",
+      "price": 214000,
+      "img": "https://wiki.rage.mp/w/images/thumb/9/9e/Cheetah.png/800px-Cheetah.png"
+    },
+    {
+      "model": "Turismo R",
+      "brand": "Grotti",
+      "price": 140000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Furia",
+      "brand": "Grotti",
+      "price": 230000,
+      "img": "https://wiki.rage.mp/w/images/thumb/a/a2/Furia.jpg/800px-Furia.jpg"
+    },
+    {
+      "model": "X80 Proto",
+      "brand": "Grotti",
+      "price": 235000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Turismo Omaggio",
+      "brand": "Grotti",
+      "price": 284500,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Visione",
+      "brand": "Grotti",
+      "price": 750000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Tigon",
+      "brand": "Lampadati",
+      "price": 240000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Virtue",
+      "brand": "Ocelot",
+      "price": 72000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Penetrator",
+      "brand": "Ocelot",
+      "price": 130000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "XA-21",
+      "brand": "Ocelot",
+      "price": 180000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Entity MT",
+      "brand": "Overflod",
+      "price": 200000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Pipistrello",
+      "brand": "Overflod",
+      "price": 240000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Entity XXR",
+      "brand": "Överflöd",
+      "price": 164000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Imorgon",
+      "brand": "Överflöd",
+      "price": 120000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Autarch",
+      "brand": "Överflöd",
+      "price": 224000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Entity XF",
+      "brand": "Överflöd",
+      "price": 180000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Tyrant",
+      "brand": "Överflöd",
+      "price": 2100000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Reaper",
+      "brand": "Pegassi",
+      "price": 100000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Tempesta",
+      "brand": "Pegassi",
+      "price": 120000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Vacca",
+      "brand": "Pegassi",
+      "price": 105000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Infernus",
+      "brand": "Pegassi",
+      "price": 235000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Osiris",
+      "brand": "Pegassi",
+      "price": 220000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Tezeract",
+      "brand": "Pegassi",
+      "price": 220000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Torero XO",
+      "brand": "Pegassi",
+      "price": 245000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Zentorno",
+      "brand": "Pegassi",
+      "price": 340000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Zorrusso",
+      "brand": "Pegassi",
+      "price": 277000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "811",
+      "brand": "Pfister",
+      "price": 220000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "GP1",
+      "brand": "Progen",
+      "price": 110000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Itali GTB",
+      "brand": "Progen",
+      "price": 170000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Emerus",
+      "brand": "Progen",
+      "price": 220000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Itali GTB Custom",
+      "brand": "Progen",
+      "price": 250000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Tyrus",
+      "brand": "Progen",
+      "price": 230000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "T20",
+      "brand": "Progen",
+      "price": 1650000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Deveste",
+      "brand": "Principe",
+      "price": 234000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "S80RR",
+      "brand": "Annis",
+      "price": 205000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "RE-7B",
+      "brand": "Annis",
+      "price": 260000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "SC1",
+      "brand": "Übermacht",
+      "price": 90000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Thrax",
+      "brand": "Truffade",
+      "price": 180000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Nero",
+      "brand": "Truffade",
+      "price": 200000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Adder",
+      "brand": "Truffade",
+      "price": 280000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Nero Custom",
+      "brand": "Truffade",
+      "price": 260000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Bullet",
+      "brand": "Vapid",
+      "price": 120000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "FMJ",
+      "brand": "Vapid",
+      "price": 125000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Massacro Racecar",
+      "brand": "Dewbauchee",
+      "price": 80000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Rapid GT",
+      "brand": "Dewbauchee",
+      "price": 86000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Rapid GT Convertible",
+      "brand": "Dewbauchee",
+      "price": 92000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Massacro",
+      "brand": "Dewbauchee",
+      "price": 110000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Seven-70",
+      "brand": "Dewbauchee",
+      "price": 140000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Specter",
+      "brand": "Dewbauchee",
+      "price": 160000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Vagner",
+      "brand": "Dewbauchee",
+      "price": 1660000,
+      "img": "https://example.com/placeholder.png"
+    }
+  ],
+  "Sport": [
+    {
+      "model": "V-STR",
+      "brand": "Albany",
+      "price": 80000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "ZR350",
+      "brand": "Annis",
+      "price": 38000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Remus",
+      "brand": "Annis",
+      "price": 48000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Euros",
+      "brand": "Annis",
+      "price": 80000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Elegy Retro Custom",
+      "brand": "Annis",
+      "price": 145000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Elegy RH8",
+      "brand": "Annis",
+      "price": 150000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Euros X32",
+      "brand": "Annis",
+      "price": 180000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Schafter LWB",
+      "brand": "Benefactor",
+      "price": 21000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Schafter V12",
+      "brand": "Benefactor",
+      "price": 35000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Streiter",
+      "brand": "Benefactor",
+      "price": 40000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Schwartzer",
+      "brand": "Benefactor",
+      "price": 47000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Feltzer",
+      "brand": "Benefactor",
+      "price": 97000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Surano",
+      "brand": "Benefactor",
+      "price": 80000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "SM722",
+      "brand": "Benefactor",
+      "price": 125000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Schlagen GT",
+      "brand": "Benefactor",
+      "price": 160000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Buffalo",
+      "brand": "Bravado",
+      "price": 18750,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Buffalo S",
+      "brand": "Bravado",
+      "price": 24500,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Verlierer",
+      "brand": "Bravado",
+      "price": 90500,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Bestia GTS",
+      "brand": "Grotti",
+      "price": 37000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Carbonizzare",
+      "brand": "Grotti",
+      "price": 155000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Khamelion",
+      "brand": "Hijak",
+      "price": 90000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Ruston",
+      "brand": "Hijak",
+      "price": 130000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Coquette",
+      "brand": "Invetero",
+      "price": 145000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Coquette D10",
+      "brand": "Invetero",
+      "price": 220000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Coquette D1",
+      "brand": "Invetero",
+      "price": 220000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Calico GTF",
+      "brand": "Karin",
+      "price": 39000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Futo GTX",
+      "brand": "Karin",
+      "price": 39000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Sultan",
+      "brand": "Karin",
+      "price": 50000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Sultan Custom",
+      "brand": "Karin",
+      "price": 55000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Sultan Classic Custom",
+      "brand": "Karin",
+      "price": 56000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Kuruma",
+      "brand": "Karin",
+      "price": 72000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Sultan RS",
+      "brand": "Karin",
+      "price": 76500,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Tropos Rallye",
+      "brand": "Lampadati",
+      "price": 65000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Komoda",
+      "brand": "Lampadati",
+      "price": 55000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Furore GT",
+      "brand": "Lampadati",
+      "price": 78000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Corsita",
+      "brand": "Lampadati",
+      "price": 90000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Penumbra",
+      "brand": "Maibatsu",
+      "price": 22000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Penumbra FF",
+      "brand": "Maibatsu",
+      "price": 30000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "BF400",
+      "brand": "Nagasaki",
+      "price": 22000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "8F Drafter",
+      "brand": "Obey",
+      "price": 80000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "9F",
+      "brand": "Obey",
+      "price": 95000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "9F Cabrio",
+      "brand": "Obey",
+      "price": 105000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Omnis e-GT",
+      "brand": "Obey",
+      "price": 185000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "10F",
+      "brand": "Obey",
+      "price": 185000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "10F Widebody",
+      "brand": "Obey",
+      "price": 215000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Pariah",
+      "brand": "Ocelot",
+      "price": 90000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Jugular",
+      "brand": "Ocelot",
+      "price": 80000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Lynx",
+      "brand": "Ocelot",
+      "price": 150000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Locust",
+      "brand": "Ocelot",
+      "price": 200000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Comet",
+      "brand": "Pfister",
+      "price": 130000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Comet Safari",
+      "brand": "Pfister",
+      "price": 110000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Comet SR",
+      "brand": "Pfister",
+      "price": 155000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Comet Retro Custom",
+      "brand": "Pfister",
+      "price": 175000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Neon",
+      "brand": "Pfister",
+      "price": 220000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Comet S2",
+      "brand": "Pfister",
+      "price": 230000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Growler",
+      "brand": "Pfister",
+      "price": 205000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Vorschlaghammer",
+      "brand": "Pfister",
+      "price": 250000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Itali GTO",
+      "brand": "Progen",
+      "price": 260000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Itali RSX",
+      "brand": "Progen",
+      "price": 260000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Raptor",
+      "brand": "BF",
+      "price": 90000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "RT3000",
+      "brand": "Dinka",
+      "price": 65000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Jester Classic",
+      "brand": "Dinka",
+      "price": 85000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Sugoi",
+      "brand": "Dinka",
+      "price": 85000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Jester",
+      "brand": "Dinka",
+      "price": 132250,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Jester Racecar",
+      "brand": "Dinka",
+      "price": 210000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Jester RR",
+      "brand": "Dinka",
+      "price": 240000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Massacro Racecar",
+      "brand": "Dewbauchee",
+      "price": 80000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Rapid GT",
+      "brand": "Dewbauchee",
+      "price": 86000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Rapid GT Convertible",
+      "brand": "Dewbauchee",
+      "price": 92000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Massacro",
+      "brand": "Dewbauchee",
+      "price": 110000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Seven-70",
+      "brand": "Dewbauchee",
+      "price": 140000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Specter",
+      "brand": "Dewbauchee",
+      "price": 160000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Vagner",
+      "brand": "Dewbauchee",
+      "price": 1660000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Paragon",
+      "brand": "Enus",
+      "price": 60000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Paragon S",
+      "brand": "Enus",
+      "price": 220000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Vectre",
+      "brand": "Emperor",
+      "price": 80000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Revolter",
+      "brand": "Übermacht",
+      "price": 95000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Sentinel Classic Widebody",
+      "brand": "Übermacht",
+      "price": 140000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Cypher",
+      "brand": "Übermacht",
+      "price": 155000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Drift Sentinel Classic",
+      "brand": "Ubermacht",
+      "price": 150000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Drift Cypher",
+      "brand": "Ubermacht",
+      "price": 160000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Niobe",
+      "brand": "Ubermacht",
+      "price": 180000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Flash GT",
+      "brand": "Vapid",
+      "price": 48000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "GB 200",
+      "brand": "Vapid",
+      "price": 140000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Omnis",
+      "brand": "Wow",
+      "price": 90000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Neo",
+      "brand": "Vysser",
+      "price": 230000,
+      "img": "https://example.com/placeholder.png"
+    },
+    {
+      "model": "Imorgon",
+      "brand": "Överflöd",
+      "price": 120000,
+      "img": "https://example.com/placeholder.png"
+    }
+  ],
+  "Motorräder": [
+    {
+      "model": "Manchez Scout",
+      "brand": "Maibatsu",
+      "price": 14000,
+      "img": "https://gtacars.net/images/d6f6ff79b8d83cc7a635913ede689f4e"
+    },
+    {
+      "model": "BF400",
+      "brand": "Nagasaki",
+      "price": 22000,
+      "img": "https://wiki.rage.mp/w/images/thumb/3/3a/BF400.png/800px-BF400.png"
+    },
+    {
+      "model": "Bati 801RR",
+      "brand": "Pegassi",
+      "price": 19000,
+      "img": "https://wiki.rage.mp/w/images/thumb/6/60/Bati2.png/800px-Bati2.png"
+    },
+    {
+      "model": "Bati 801",
+      "brand": "Pegassi",
+      "price": 24000,
+      "img": "https://wiki.rage.mp/w/images/thumb/c/ce/Bati.png/800px-Bati.png"
+    },
+    {
+      "model": "Hakuchou",
+      "brand": "Shitzu",
+      "price": 17000,
+      "img": "https://wiki.rage.mp/w/images/thumb/2/23/Hakuchou.png/800px-Hakuchou.png"
+    },
+    {
+      "model": "Reever",
+      "brand": "Western",
+      "price": 25000,
+      "img": "https://wiki.rage.mp/w/images/thumb/0/00/Reever.jpg/800px-Reever.jpg"
+    }
+  ]
+}
