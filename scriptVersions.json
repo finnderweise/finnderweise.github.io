@@ -7,7 +7,7 @@
   },
   "fdw-hud": {
     "version": "1.0-rc6",
-    "changelog": "Dieses Update ersetzt die native Gesundheitsanzeige und ersetzt sie durch eine vom HUD.",
+    "changelog": "Dieses Update entfernt die native Gesundheitsanzeige und ersetzt sie durch eine anpasspare vom HUD.",
     "authors": "finnderweise",
     "icon": ""
   },
