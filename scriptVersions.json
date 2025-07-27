@@ -1,13 +1,13 @@
 {
   "fdw-tablet": {
-    "version": "0.49.1",
-    "changelog": "Dieses Update entfernt die Unterstützung der Calls-App und entfernt sie aus dem App Store.",
-    "authors": "finnderweise",
-    "icon": "images/apps/settings.png"
+    "version": "0.50",
+    "changelog": "Eine neue Einstellungen-App und eine App die dir mobil den Katalog vom Luxus-Autohaus zeigt, andere kleine Änderungen und verschiedene Änderungen an der Maze Bank-App, darunter die Möglichkeit zum Überweisen.",
+    "authors": "finnderweise & lnaktiv",
+    "icon": "https://finnderweise.github.io/fdw-tablet/osBeta.png"
   },
   "fdw-hud": {
-    "version": "1.0-rc6",
-    "changelog": "Dieses Update entfernt die native Gesundheitsanzeige und ersetzt sie durch eine anpasspare vom HUD.",
+    "version": "1.0-rc7",
+    "changelog": "Dieses Update erweitert die Geldanzeige. Wenn man sich im Casino befindet, werden nun die Menge an Spielchips in deinem Inventar angezeigt.",
     "authors": "finnderweise",
     "icon": ""
   },
