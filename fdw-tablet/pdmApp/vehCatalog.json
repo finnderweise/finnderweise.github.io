@@ -4,121 +4,121 @@
       "model": "LM87",
       "brand": "Benefactor",
       "price": 155000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/c/cf/LM87-GTAOe-front.png/revision/latest/scale-to-width-down/1000?cb=20220809140310"
     },
     {
       "model": "Krieger",
       "brand": "Benefactor",
       "price": 222000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/e/e4/Krieger-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20190728182510"
     },
     {
       "model": "Taipan",
       "brand": "Cheval",
       "price": 1850000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/4/4c/Taipan-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20241114211528"
     },
     {
       "model": "Voltic",
       "brand": "Coil",
       "price": 120000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/11c98c09d5ecd5673d186451e264de6d"
     },
     {
       "model": "Cyclone",
       "brand": "Coil",
       "price": 300000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/8e9cb4636ac4e2aa21632164fe32acae"
     },
     {
       "model": "ETR1",
       "brand": "Emperor",
       "price": 220000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/ed9d0d568994d9e9022ad0534909f01e"
     },
     {
       "model": "Cheetah Classic",
       "brand": "Grotti",
       "price": 195000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/ba4ba835632f6768a67a7726a620974b"
     },
     {
       "model": "Cheetah",
       "brand": "Grotti",
       "price": 214000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/9bf4d9bcf46b953bb655afbffd5645fb"
     },
     {
       "model": "Turismo R",
       "brand": "Grotti",
       "price": 140000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/3316578ec337a8b9f756c3ad5c7b8703"
     },
     {
       "model": "Furia",
       "brand": "Grotti",
       "price": 230000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/8/8a/Furia-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20191213212658"
     },
     {
       "model": "X80 Proto",
       "brand": "Grotti",
       "price": 235000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/b/b3/X80Proto-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20160609144552"
     },
     {
       "model": "Turismo Omaggio",
       "brand": "Grotti",
       "price": 284500,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/f/fc/TurismoOmaggio-GTAOe-front.png/revision/latest/scale-to-width-down/1000?cb=20231214201135"
     },
     {
       "model": "Visione",
       "brand": "Grotti",
       "price": 750000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/0699d68a4b054d19386995135ac603a7"
     },
     {
       "model": "Tigon",
       "brand": "Lampadati",
       "price": 240000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/292cca5d9e841983122539c187f9db2a"
     },
     {
       "model": "Virtue",
       "brand": "Ocelot",
       "price": 72000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/a15b49fa1e58c76caab5a709187127ff"
     },
     {
       "model": "Penetrator",
       "brand": "Ocelot",
       "price": 130000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/839583d41b51b14ec69f58649e72917e"
     },
     {
       "model": "XA-21",
       "brand": "Ocelot",
       "price": 180000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/6/69/XA21-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20170614143529"
     },
     {
       "model": "Entity MT",
       "brand": "Overflod",
       "price": 200000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/f/f2/EntityMT-GTAOe-front.png/revision/latest/scale-to-width-down/1000?cb=20241114211045"
     },
     {
       "model": "Pipistrello",
       "brand": "Overflod",
       "price": 240000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/fd5c7176efe3b3d23d0c1cf6b1bf34c0"
     },
     {
       "model": "Entity XXR",
       "brand": "Överflöd",
       "price": 164000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/9/9a/EntityXXR-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20241114211105"
     },
     {
       "model": "Imorgon",
@@ -348,91 +348,91 @@
       "model": "V-STR",
       "brand": "Albany",
       "price": 80000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/6e771e45f10cb45e07d19c090d753ce4"
     },
     {
       "model": "ZR350",
       "brand": "Annis",
       "price": 38000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/e2746bee728ea389e66dade7b4e9dbe6"
     },
     {
       "model": "Remus",
       "brand": "Annis",
       "price": 48000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/8dd636d2d77270e80547a46b206e77e4"
     },
     {
       "model": "Euros",
       "brand": "Annis",
       "price": 80000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/71705592df5c0d18855809f0d074ab7c"
     },
     {
       "model": "Elegy Retro Custom",
       "brand": "Annis",
       "price": 145000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/ecac7651b94091e083e5068e03264843"
     },
     {
       "model": "Elegy RH8",
       "brand": "Annis",
       "price": 150000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/306c15592e7dfd0d9ce73f85d0cd432a"
     },
     {
       "model": "Euros X32",
       "brand": "Annis",
       "price": 180000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/5/5c/EurosX32-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/1000?cb=20240625175401"
     },
     {
       "model": "Schafter LWB",
       "brand": "Benefactor",
       "price": 21000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/3e6aa42c31d31261e08df8d2791a15dd"
     },
     {
       "model": "Schafter V12",
       "brand": "Benefactor",
       "price": 35000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/7074c7c237de86b41d3d12f5833ba136"
     },
     {
       "model": "Streiter",
       "brand": "Benefactor",
       "price": 40000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/3/38/Streiter-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20171218193930"
     },
     {
       "model": "Schwartzer",
       "brand": "Benefactor",
       "price": 47000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/4/44/Schwartzer-GTAVe-front.png/revision/latest/scale-to-width-down/1000?cb=20220809140353"
     },
     {
       "model": "Feltzer",
       "brand": "Benefactor",
       "price": 97000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/f758e8ef10273636c830d7aed8305333"
     },
     {
       "model": "Surano",
       "brand": "Benefactor",
       "price": 80000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/f/fd/SuranoDown-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20160305181513"
     },
     {
       "model": "SM722",
       "brand": "Benefactor",
       "price": 125000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/0/0d/SM722-GTAOe-front.png/revision/latest/scale-to-width-down/1000?cb=20220809141343"
     },
     {
       "model": "Schlagen GT",
       "brand": "Benefactor",
       "price": 160000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/4/42/SchlagenGT-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20190107163325"
     },
     {
       "model": "Buffalo",
@@ -878,31 +878,31 @@
       "model": "BF400",
       "brand": "Nagasaki",
       "price": 22000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/f9d9fd33166da0ea09aded035d0f00df"
     },
     {
       "model": "Bati 801RR",
       "brand": "Pegassi",
       "price": 19000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/2d719b787719bafd374c5c0092a42b52"
     },
     {
       "model": "Bati 801",
       "brand": "Pegassi",
       "price": 24000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/4d18e6b30e8ad542c24bd5f6ae60aed9"
     },
     {
       "model": "Hakuchou",
       "brand": "Shitzu",
       "price": 17000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/ba59d1b9eeef08d59659f2c25ffb8bea"
     },
     {
       "model": "Reever",
       "brand": "Western",
       "price": 25000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/804190eafde87e39284d34980bf4bb2a"
     }
   ]
 }
