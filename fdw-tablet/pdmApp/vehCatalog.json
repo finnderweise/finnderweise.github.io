@@ -124,224 +124,188 @@
       "model": "Imorgon",
       "brand": "Överflöd",
       "price": 120000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/4/43/Imorgon-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20191213212701"
     },
     {
       "model": "Autarch",
       "brand": "Överflöd",
       "price": 224000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/4/4d/Autarch-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/1000?cb=20250208193121"
     },
     {
       "model": "Entity XF",
       "brand": "Överflöd",
       "price": 180000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/d/d2/EntityXF-GTAVe-front.png/revision/latest/scale-to-width-down/1000?cb=20231220160021"
     },
     {
       "model": "Tyrant",
       "brand": "Överflöd",
       "price": 2100000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/f/f7/Tyrant-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20241114211548"
     },
     {
       "model": "Reaper",
       "brand": "Pegassi",
       "price": 100000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/b/b7/Reaper-GTAOe-front.png/revision/latest/scale-to-width-down/1000?cb=20231009223134"
     },
     {
       "model": "Tempesta",
       "brand": "Pegassi",
       "price": 120000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/3/35/Tempesta-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20161213203018"
     },
     {
       "model": "Vacca",
       "brand": "Pegassi",
       "price": 105000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/b/b4/Vacca-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20230619192855"
     },
     {
       "model": "Infernus",
       "brand": "Pegassi",
       "price": 235000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/0/0e/Infernus-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20160429175116"
     },
     {
       "model": "Osiris",
       "brand": "Pegassi",
       "price": 220000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/5/53/Osiris-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20190814130944"
     },
     {
       "model": "Tezeract",
       "brand": "Pegassi",
       "price": 220000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/c/ca/Tezeract-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20241114211406"
     },
     {
       "model": "Torero XO",
       "brand": "Pegassi",
       "price": 245000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/a/a9/ToreroXO-GTAOe-front.png/revision/latest/scale-to-width-down/1000?cb=20220809140415"
     },
     {
       "model": "Zentorno",
       "brand": "Pegassi",
       "price": 340000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/1/1e/Zentorno-GTAVe-front.png/revision/latest/scale-to-width-down/1000?cb=20220809140438"
     },
     {
       "model": "Zorrusso",
       "brand": "Pegassi",
       "price": 277000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/a/ae/Zorrusso-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20190723230437"
     },
     {
       "model": "811",
       "brand": "Pfister",
       "price": 220000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/c/c7/811A-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20161014163127"
     },
     {
       "model": "GP1",
       "brand": "Progen",
       "price": 110000,
-      "img": "images/placeholder.png"
-    },
-    {
-      "model": "Itali GTB",
-      "brand": "Progen",
-      "price": 170000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/8/8a/GP1-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20170314170715"
     },
     {
       "model": "Emerus",
       "brand": "Progen",
       "price": 220000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/3/3f/Emerus-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20190723230316"
+    },
+    {
+      "model": "Itali GTB",
+      "brand": "Progen",
+      "price": 170000,
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/4/44/ItaliGTB-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20171103095537"
     },
     {
       "model": "Itali GTB Custom",
       "brand": "Progen",
       "price": 250000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/c/c5/ItaliGTBCustom-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20161213202528"
     },
     {
       "model": "Tyrus",
       "brand": "Progen",
       "price": 230000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/8/8f/Tyrus-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20160712122822"
     },
     {
       "model": "T20",
       "brand": "Progen",
       "price": 1650000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/c/c0/T20-GTAVe-front.png/revision/latest/scale-to-width-down/1000?cb=20231220155925g"
     },
     {
       "model": "Deveste",
       "brand": "Principe",
       "price": 234000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/7/7b/Deveste-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20230402201556"
     },
     {
       "model": "S80RR",
       "brand": "Annis",
       "price": 205000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/4/4d/S80RR-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20190723230559"
     },
     {
       "model": "RE-7B",
       "brand": "Annis",
       "price": 260000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/7/77/RE7B-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20160712123452"
     },
     {
       "model": "SC1",
       "brand": "Übermacht",
       "price": 90000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/3/3a/SC1-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20171218192734"
     },
     {
       "model": "Thrax",
       "brand": "Truffade",
       "price": 180000,
-      "img": "images/placeholder.png"
-    },
-    {
-      "model": "Nero",
-      "brand": "Truffade",
-      "price": 200000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/5/55/Thrax-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20190723230233"
     },
     {
       "model": "Adder",
       "brand": "Truffade",
       "price": 280000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/9/9e/Adder-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20230402200727"
+    },
+    {
+      "model": "Nero",
+      "brand": "Truffade",
+      "price": 200000,
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/5/5e/Nero-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20161213202624"
     },
     {
       "model": "Nero Custom",
       "brand": "Truffade",
       "price": 260000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/4/40/NeroCustom-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20180331183629"
     },
     {
       "model": "Bullet",
       "brand": "Vapid",
       "price": 120000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/3/39/Bullet-GTAVe-front.png/revision/latest/scale-to-width-down/1000?cb=20231220155912"
     },
     {
       "model": "FMJ",
       "brand": "Vapid",
       "price": 125000,
-      "img": "images/placeholder.png"
-    },
-    {
-      "model": "Massacro Racecar",
-      "brand": "Dewbauchee",
-      "price": 80000,
-      "img": "images/placeholder.png"
-    },
-    {
-      "model": "Rapid GT",
-      "brand": "Dewbauchee",
-      "price": 86000,
-      "img": "images/placeholder.png"
-    },
-    {
-      "model": "Rapid GT Convertible",
-      "brand": "Dewbauchee",
-      "price": 92000,
-      "img": "images/placeholder.png"
-    },
-    {
-      "model": "Massacro",
-      "brand": "Dewbauchee",
-      "price": 110000,
-      "img": "images/placeholder.png"
-    },
-    {
-      "model": "Seven-70",
-      "brand": "Dewbauchee",
-      "price": 140000,
-      "img": "images/placeholder.png"
-    },
-    {
-      "model": "Specter",
-      "brand": "Dewbauchee",
-      "price": 160000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/8/8c/FMJ-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20161014163347"
     },
     {
       "model": "Vagner",
       "brand": "Dewbauchee",
       "price": 1660000,
-      "img": "images/placeholder.png"
-    }
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/1/14/Vagner-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20171220190908"
+    },
   ],
   "Sport": [
     {
@@ -438,433 +402,414 @@
       "model": "Buffalo",
       "brand": "Bravado",
       "price": 18750,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/645819058f3bc44c42224cdc675ca178"
     },
     {
       "model": "Buffalo S",
       "brand": "Bravado",
       "price": 24500,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/e/e1/BuffaloS-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20150531171438"
     },
     {
       "model": "Verlierer",
       "brand": "Bravado",
       "price": 90500,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/8/8c/Verlierer-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20180331183730"
     },
     {
       "model": "Bestia GTS",
       "brand": "Grotti",
       "price": 37000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/0/00/BestiaGTS-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/1000?cb=20250208193127"
     },
     {
       "model": "Carbonizzare",
       "brand": "Grotti",
       "price": 155000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/7/7b/CarbonizzareDown-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20160917231442"
     },
     {
       "model": "Khamelion",
       "brand": "Hijak",
       "price": 90000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/1/1f/Khamelion-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20160917231447"
     },
     {
       "model": "Ruston",
       "brand": "Hijak",
       "price": 130000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/2/2c/Ruston-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20170314170818"
     },
     {
       "model": "Coquette",
       "brand": "Invetero",
       "price": 145000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/0/08/Coquette-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20190818142055"
     },
     {
       "model": "Coquette D10",
       "brand": "Invetero",
       "price": 220000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/e/eb/CoquetteD10-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20200811143131"
     },
     {
       "model": "Coquette D1",
       "brand": "Invetero",
       "price": 220000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/e/e1/CoquetteD1-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/1000?cb=20240625175334"
     },
     {
       "model": "Calico GTF",
       "brand": "Karin",
       "price": 39000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/a/ad/CalicoGTF-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20210720164424"
     },
     {
       "model": "Futo GTX",
       "brand": "Karin",
       "price": 39000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/b/bd/FutoGTX-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20210720164449"
     },
     {
       "model": "Sultan",
       "brand": "Karin",
       "price": 50000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/3/34/Sultan-GTAVe-front.png/revision/latest/scale-to-width-down/1000?cb=20230623151719"
     },
     {
-      "model": "Sultan Custom",
-      "brand": "Karin",
-      "price": 55000,
-      "img": "images/placeholder.png"
-    },
-    {
-      "model": "Sultan Classic Custom",
+      "model": "Sultan Classic",
       "brand": "Karin",
       "price": 56000,
-      "img": "images/placeholder.png"
-    },
-    {
-      "model": "Kuruma",
-      "brand": "Karin",
-      "price": 72000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/f/f3/SultanClassic-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20191213212805"
     },
     {
       "model": "Sultan RS",
       "brand": "Karin",
       "price": 76500,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/c/c1/SultanRS-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20160128182129"
+    },
+    {
+      "model": "Kuruma",
+      "brand": "Karin",
+      "price": 72000,
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/4/4b/Kuruma-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/1000?cb=20250208193150"
     },
     {
       "model": "Tropos Rallye",
       "brand": "Lampadati",
       "price": 65000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/d/df/TroposRallye-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20161014163622"
     },
     {
       "model": "Komoda",
       "brand": "Lampadati",
       "price": 55000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/2/24/Komoda-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20191213212708"
     },
     {
       "model": "Furore GT",
       "brand": "Lampadati",
       "price": 78000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/5/56/FuroreGT-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20160302175246"
     },
     {
       "model": "Corsita",
       "brand": "Lampadati",
       "price": 90000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/a/aa/Corsita-GTAOe-front.png/revision/latest/scale-to-width-down/1000?cb=20220809140239"
     },
     {
       "model": "Penumbra",
       "brand": "Maibatsu",
       "price": 22000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/f/ff/Penumbra-GTAVe-front.png/revision/latest/scale-to-width-down/1000?cb=20230623151708"
     },
     {
       "model": "Penumbra FF",
       "brand": "Maibatsu",
       "price": 30000,
-      "img": "images/placeholder.png"
-    },
-    {
-      "model": "BF400",
-      "brand": "Nagasaki",
-      "price": 22000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/b/bc/PenumbraFF-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20200811143229"
     },
     {
       "model": "8F Drafter",
       "brand": "Obey",
       "price": 80000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/b/b8/8FDrafter-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20190723230655"
     },
     {
       "model": "9F",
       "brand": "Obey",
       "price": 95000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/2/2d/9F-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20150529201705"
     },
     {
       "model": "9F Cabrio",
       "brand": "Obey",
       "price": 105000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/a/a1/9FCabrio-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20150529201708"
     },
     {
       "model": "Omnis e-GT",
       "brand": "Obey",
       "price": 185000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/4/40/OmnisEGT-GTAOe-front.png/revision/latest/scale-to-width-down/1000?cb=20220809140316"
     },
     {
       "model": "10F",
       "brand": "Obey",
       "price": 185000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/5/58/10F-GTAOe-front.png/revision/latest/scale-to-width-down/1000?cb=20220809141128"
     },
     {
       "model": "10F Widebody",
       "brand": "Obey",
       "price": 215000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/1/18/10FWidebody-GTAOe-front.png/revision/latest/scale-to-width-down/1000?cb=20220809141133"
     },
     {
       "model": "Pariah",
       "brand": "Ocelot",
       "price": 90000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/f/ff/Pariah-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20171218203236"
     },
     {
       "model": "Jugular",
       "brand": "Ocelot",
       "price": 80000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/9/98/Jugular-GTAO-front.png/revision/latest?cb=20190723230439"
     },
     {
       "model": "Lynx",
       "brand": "Ocelot",
       "price": 150000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/a/a7/Lynx-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20160712123941"
     },
     {
       "model": "Locust",
       "brand": "Ocelot",
       "price": 200000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/8/8c/Locust-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20190723230519"
     },
     {
       "model": "Comet",
       "brand": "Pfister",
       "price": 130000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/d/d2/Comet-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20160702195302"
     },
     {
       "model": "Comet Safari",
       "brand": "Pfister",
       "price": 110000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/a/aa/CometSafari-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20171218202452"
     },
     {
       "model": "Comet SR",
       "brand": "Pfister",
       "price": 155000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/0/0f/CometSR-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20171218193000"
     },
     {
       "model": "Comet Retro Custom",
       "brand": "Pfister",
       "price": 175000,
-      "img": "images/placeholder.png"
-    },
-    {
-      "model": "Neon",
-      "brand": "Pfister",
-      "price": 220000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/a/a0/CometRetroCustom-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20161213201950"
     },
     {
       "model": "Comet S2",
       "brand": "Pfister",
       "price": 230000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/c/c4/CometS2-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20210720164428"
+    },
+    {
+      "model": "Neon",
+      "brand": "Pfister",
+      "price": 220000,
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/c/c0/Neon-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20171220191339"
     },
     {
       "model": "Growler",
       "brand": "Pfister",
       "price": 205000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/7/78/Growler-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20210720164457"
     },
     {
       "model": "Vorschlaghammer",
       "brand": "Pfister",
       "price": 250000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/f/fd/Vorschlaghammer-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/1000?cb=20240711214556"
     },
     {
       "model": "Itali GTO",
       "brand": "Progen",
       "price": 260000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/e/ec/ItaliGTO-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20181214181625"
     },
     {
       "model": "Itali RSX",
       "brand": "Progen",
       "price": 260000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/a/af/ItaliRSX-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20201216100232"
     },
     {
       "model": "Raptor",
       "brand": "BF",
       "price": 90000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/c/cc/Raptor-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20161004180544"
     },
     {
       "model": "RT3000",
       "brand": "Dinka",
       "price": 65000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/e/ea/RT3000-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20210720164513"
     },
     {
       "model": "Jester Classic",
       "brand": "Dinka",
       "price": 85000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/2/2d/JesterClassic-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/1000?cb=20250208193133"
     },
     {
       "model": "Sugoi",
       "brand": "Dinka",
       "price": 85000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/8/82/Sugoi-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20191213212802"
     },
     {
       "model": "Jester",
       "brand": "Dinka",
       "price": 132250,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/b/b3/Jester-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/1000?cb=20250208193207"
     },
     {
       "model": "Jester Racecar",
       "brand": "Dinka",
       "price": 210000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/2/2e/JesterRacecar-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/1000?cb=20250208193214"
     },
     {
       "model": "Jester RR",
       "brand": "Dinka",
       "price": 240000,
-      "img": "images/placeholder.png"
-    },
-    {
-      "model": "Massacro Racecar",
-      "brand": "Dewbauchee",
-      "price": 80000,
-      "img": "images/placeholder.png"
-    },
-    {
-      "model": "Rapid GT",
-      "brand": "Dewbauchee",
-      "price": 86000,
-      "img": "images/placeholder.png"
-    },
-    {
-      "model": "Rapid GT Convertible",
-      "brand": "Dewbauchee",
-      "price": 92000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/8/8f/JesterRR-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/1000?cb=20250208193139"
     },
     {
       "model": "Massacro",
       "brand": "Dewbauchee",
       "price": 110000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/5/57/Massacro-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/1000?cb=20250208193220"
+    {
+      "model": "Massacro Racecar",
+      "brand": "Dewbauchee",
+      "price": 80000,
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/6/6a/MassacroRacecar-GTAVe-FrontQuarter.png/revision/latest/scale-to-width-down/1000?cb=20250208193226"
+    },
+    {
+      "model": "Rapid GT",
+      "brand": "Dewbauchee",
+      "price": 86000,
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/4/42/RapidGT-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20150529203102"
+    },
+    {
+      "model": "Rapid GT Convertible",
+      "brand": "Dewbauchee",
+      "price": 92000,
+      "img": "https://gtacars.net/images/d459c4f50269417e3fe15b7a0255ef45"
     },
     {
       "model": "Seven-70",
       "brand": "Dewbauchee",
       "price": 140000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/2/21/Seven70-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20161014163258"
     },
     {
       "model": "Specter",
       "brand": "Dewbauchee",
       "price": 160000,
-      "img": "images/placeholder.png"
-    },
-    {
-      "model": "Vagner",
-      "brand": "Dewbauchee",
-      "price": 1660000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/7/7b/Specter-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20161213202907"
     },
     {
       "model": "Paragon",
       "brand": "Enus",
       "price": 60000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/c/cb/ParagonR-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20190723230236"
     },
     {
       "model": "Paragon S",
       "brand": "Enus",
       "price": 220000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/e/eb/ParagonS-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/1000?cb=20240625175424"
     },
     {
       "model": "Vectre",
       "brand": "Emperor",
       "price": 80000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/8/8a/Vectre-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20210720164526"
     },
     {
       "model": "Revolter",
       "brand": "Übermacht",
       "price": 95000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/e/e8/Revolter-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20171218203456"
     },
     {
       "model": "Sentinel Classic Widebody",
       "brand": "Übermacht",
       "price": 140000,
-      "img": "images/placeholder.png"
-    },
-    {
-      "model": "Cypher",
-      "brand": "Übermacht",
-      "price": 155000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/2/2b/SentinelClassicWidebody-GTAOe-front.png/revision/latest/scale-to-width-down/1000?cb=20220809140359"
     },
     {
       "model": "Drift Sentinel Classic",
       "brand": "Ubermacht",
       "price": 150000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/9d53de6fe1f3beb185dacd240f86f470"
+    },
+    {
+      "model": "Cypher",
+      "brand": "Übermacht",
+      "price": 155000,
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/f/f5/Cypher-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/1000?cb=20210720164432"
     },
     {
       "model": "Drift Cypher",
       "brand": "Ubermacht",
       "price": 160000,
-      "img": "images/placeholder.png"
+      "img": "https://gtacars.net/images/e994d2238d5211a4f8cf5f2e5ff686b8"
     },
     {
       "model": "Niobe",
       "brand": "Ubermacht",
       "price": 180000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/c/ca/Niobe-GTAOe-FrontQuarter.png/revision/latest/scale-to-width-down/1000?cb=20240625175420"
     },
     {
       "model": "Flash GT",
       "brand": "Vapid",
       "price": 48000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/3/3b/FlashGT-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20241114211145"
     },
     {
       "model": "GB 200",
       "brand": "Vapid",
       "price": 140000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/3/36/GB200-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20200612112555"
     },
     {
       "model": "Omnis",
       "brand": "Wow",
       "price": 90000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/e/e7/Omnis-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20160712122549"
     },
     {
       "model": "Neo",
       "brand": "Vysser",
       "price": 230000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/0/01/Neo-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20190723230320"
     },
     {
       "model": "Imorgon",
       "brand": "Överflöd",
       "price": 120000,
-      "img": "images/placeholder.png"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/4/43/Imorgon-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20191213212701"
     }
   ],
   "Motorräder": [
