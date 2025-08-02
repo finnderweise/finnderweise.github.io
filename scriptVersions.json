@@ -1,9 +1,9 @@
 {
   "fdw-tablet": {
-    "version": "0.50",
-    "changelog": "Eine neue Einstellungen-App und eine App die dir mobil den Katalog vom Luxus-Autohaus zeigt, andere kleine Änderungen und verschiedene Änderungen an der Maze Bank-App, darunter die Möglichkeit zum Überweisen.",
-    "authors": "finnderweise & lnaktiv",
-    "icon": "https://finnderweise.github.io/fdw-tablet/osBeta.png"
+    "version": "1.0-pre1",
+    "changelog": "Das ist ein Testlauf vom Update-Checker des FdW-Tablet. Angezeigte Informationen dienen nur für Testzwecke und können damit ignoriert werden.",
+    "authors": "finnderweise",
+    "icon": "https://finnderweise.github.io/fdw-tablet/os1.png"
   },
   "fdw-hud": {
     "version": "1.0-rc7",
