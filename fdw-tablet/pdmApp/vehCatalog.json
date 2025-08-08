@@ -1,4 +1,12 @@
 {
+  "Hyperspeed": [
+    {
+      "model": "Tyrant",
+      "brand": "Överflöd",
+      "price": 2100000,
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/f/f7/Tyrant-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20241114211548"
+    }
+  ],
   "Supersport": [
     {
       "model": "LM87",
@@ -137,12 +145,6 @@
       "brand": "Överflöd",
       "price": 180000,
       "img": "https://static.wikia.nocookie.net/gtawiki/images/d/d2/EntityXF-GTAVe-front.png/revision/latest/scale-to-width-down/1000?cb=20231220160021"
-    },
-    {
-      "model": "Tyrant",
-      "brand": "Överflöd",
-      "price": 2100000,
-      "img": "https://static.wikia.nocookie.net/gtawiki/images/f/f7/Tyrant-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20241114211548"
     },
     {
       "model": "Reaper",
