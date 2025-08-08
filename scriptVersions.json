@@ -1,13 +1,13 @@
 {
   "fdw-tablet": {
     "version": "1.0-pre1",
-    "changelog": "Das ist ein Testlauf vom Update-Checker des FdW-Tablet. Angezeigte Informationen dienen nur für Testzwecke und können damit ignoriert werden.",
+    "changelog": "Weitere Überarbeitungen an verschiedensten Apps und Kern-Funktionen vom Tablet, darunter ein Redesign der Maze Bank-App. Hierbei handelt es sich um die erste nicht-Beta-Version der Tablet-Software! 🎉",
     "authors": "finnderweise",
     "icon": "https://finnderweise.github.io/fdw-tablet/os1.png"
   },
   "fdw-hud": {
-    "version": "1.0-rc7",
-    "changelog": "Dieses Update erweitert die Geldanzeige. Wenn man sich im Casino befindet, werden nun die Menge an Spielchips in deinem Inventar angezeigt.",
+    "version": "1.0-rc8",
+    "changelog": "Dieses Update fügt verschiedene neue Funktionen hinzu, darunter eine Anzeige des Fahrzeugmodells beim Einsteigen in Fahrzeuge.",
     "authors": "finnderweise",
     "icon": ""
   },
