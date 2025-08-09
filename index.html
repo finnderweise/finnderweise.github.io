@@ -1,6 +1,116 @@
+<!DOCTYPE html>
+<html lang="de">
 <head>
-  <title>Finn der Weise</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>LogicV | Home</title>
+    <link rel="icon" href="logo2.png" type="image/png" />
+    <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap" rel="stylesheet" />
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://logicv.de">
+    <meta property="og:title" content="LogicV reCORE | Home">
+    <meta property="og:description" content="Die Website von LogicV.">
+    <meta property="og:image" content="https://logicv.de/logo.png">
+
+  <style>
+    body {
+      font-family: 'Atkinson Hyperlegible', Arial, sans-serif;
+      background-color: #121212;
+      color: #eee;
+      margin: 0; padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      flex-direction: column;
+      text-align: center;
+    }
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 0.2rem;
+      color: #049aff; /* Blau */
+    }
+    p {
+      font-size: 1.3rem;
+      color: #aaa;
+      margin-top: 0;
+      margin-bottom: 2rem;
+    }
+    a.button {
+      background-color: #049aff; /* Blau */
+      color: white;
+      padding: 1rem 2rem;
+      text-decoration: none;
+      font-weight: 700;
+      border-radius: 5000px;
+      font-size: 1.2rem;
+      transition: background-color 0.3s ease;
+      user-select: none;
+    }
+    a.button:hover,
+    a.button:focus {
+      background-color: #0277cc; /* Dunkleres Blau beim Hover */
+      outline: none;
+    }
+    nav a {
+      color: #049aff;
+      margin: 0 1rem;
+      text-decoration: none;
+      font-weight: 700;
+    }
+    nav a:hover,
+    nav a:focus {
+      text-decoration: underline;
+      outline: none;
+    }
+    lab {
+        background: #ffffff50;
+        color: #fff;
+        padding-left: 10px;
+        padding-right: 12px;
+        border-radius: 8px;
+    }
+    .background {
+        position: absolute;
+        background-image: url(bg1.png);
+        width: 100%;
+        height: 100%;
+        top: 50%;
+        left: 50%;
+        background-size: 100%;
+        transform: translate(-50%, -50%) rotateX(10deg) rotateY(7deg) scale(0.9);
+        z-index: -1;
+        opacity: 0.5;
+        box-shadow: inset 0 0 200px black;
+    }
+    .logo {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        opacity: 0.1;
+        background-image: url(logo.png);
+        width: 600px;
+        height: 600px;
+        background-size: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        filter: saturate(0);
+        z-index: -1;
+    }
+  </style>
 </head>
-<html>
-  <h1>HaHoHe!</h1>
+<body>
+    <div class="background"></div>
+    <div class="logo"></div>
+    <h1>LogicV reCORE <lab>BETA</lab></h1>
+    <p>Hey! Wenn gerade eine Beta-Test-Session läuft, kannst du dich hier verbinden.</p>
+    <a href="fivem://connect/play.logicv.de" class="button">Mit FiveM verbinden</a>
+
+    <nav style="margin-top:3rem;">
+        <a href="changelogs/index.html">Script-Changelogs</a>
+        <a href="wallpapers/index.html">Tablet Pro-Wallpaper</a>
+    </nav>
+</body>
 </html>
