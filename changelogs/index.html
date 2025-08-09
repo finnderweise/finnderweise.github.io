@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>LogicV | Script-Changelogs</title>
+  <link rel="icon" href="../logo2.png" type="image/png" />
+  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap" rel="stylesheet" />
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://logicv.de/changelogs">
+    <meta property="og:title" content="LogicV reCORE | Script-Changelogs">
+    <meta property="og:description" content="Die Website von LogicV.">
+    <meta property="og:image" content="https://logicv.de/logo.png">
+
+
+  <style>
+    body {
+      font-family: 'Atkinson Hyperlegible', Arial, sans-serif;
+      background-color: #121212;
+      color: #eee;
+      margin: 0;
+      padding: 0;
+    }
+
+    nav.tabs {
+  background-color: #1a1a1a;
+  display: flex;
+  align-items: center;
+  padding: 0.8rem 2rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.7);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  justify-content: space-between;
+  /* Wir entfernen space-between und machen flex-grow auf Spacer */
+}
+
+nav.tabs .logo {
+  height: 40px;
+  cursor: pointer;
+  user-select: none;
+  flex-shrink: 0;
+}
+
+nav.tabs .tab-links {
+  display: flex;
+  gap: 2rem;
+  flex-grow: 1;
+  justify-content: center;
+}
+
+nav.tabs .tab-links a {
+  color: #bbb;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1.1rem;
+  padding: 0.5rem 0;
+  border-bottom: 3px solid transparent;
+  transition: color 0.3s ease, border-bottom-color 0.3s ease;
+  user-select: none;
+}
+nav.tabs .tab-links a:hover,
+nav.tabs .tab-links a:focus {
+  color: #049aff;
+  outline: none;
+}
+nav.tabs .tab-links a.active {
+  color: #049aff;
+  border-bottom-color: #049aff;
+}
+
+nav.tabs .tab-spacer {
+  width: 40px; /* Gleiche Breite wie das Logo, damit rechts nichts hängt */
+}
+
+
+    main {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
+    h1 {
+      color: #049aff;
+      font-weight: 900;
+      margin-bottom: 1rem;
+    }
+
+    .changelog-item {
+      background-color: #222;
+      border-radius: 6px;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 0 8px #222 inset;
+    }
+    .changelog-item strong {
+      display: block;
+      margin-bottom: 0.5rem;
+      color: #049aff;
+    }
+    .changelog-item ul {
+      margin: 0;
+      padding-left: 1.2rem;
+    }
+  </style>
+</head>
+<body>
+    <nav class="tabs" role="navigation" aria-label="Seiten Navigation">
+    <a href="../index.html" aria-label="Zur Startseite">
+        <img src="../logo.png" alt="LogicV Logo" class="logo" />
+    </a>
+    <div class="tab-links" role="tablist" aria-label="Seiten Tabs">
+        <a href="../index.html" role="tab" tabindex="0">Home</a>
+        <a href="../changelogs/index.html" role="tab" class="active" aria-selected="true" tabindex="0">Script-Changelogs</a>
+        <a href="../wallpapers/index.html" role="tab" tabindex="-1">Tablet Pro-Wallpaper</a>
+    </div>
+    <div class="tab-spacer"></div>
+    </nav>
+
+
+  <main>
+  <h1>Neueste Changelogs</h1>
+  <div id="changelog-container"></div>
+  </main>
+
+<script>
+  function toArray(changes) {
+    if (!changes) return [];                // null / undefined -> leeres Array
+    if (Array.isArray(changes)) return changes;
+    if (typeof changes === 'string') {
+      return changes.split(/\r?\n/).map(s => s.trim()).filter(Boolean);
+    }
+    if (typeof changes === 'object') {
+      // z.B. wenn versehentlich ein Objekt geliefert wird -> Werte extrahieren
+      return Object.values(changes).flat().map(String);
+    }
+    return [String(changes)];
+  }
+
+  fetch('https://logicv.de/scriptVersions.json')
+    .then(resp => {
+      if (!resp.ok) throw new Error('JSON konnte nicht geladen werden: ' + resp.status);
+      return resp.json();
+    })
+    .then(data => {
+      console.log('loaded scriptVersions:', data);
+      const container = document.getElementById('changelog-container');
+      container.innerHTML = '';
+
+      // Falls data ein Array statt Objekt ist, behandeln wir das ebenfalls
+      const entries = Array.isArray(data)
+        ? data.map((item, i) => [item.name || `script-${i}`, item])
+        : Object.entries(data);
+
+      entries.forEach(([scriptName, script]) => {
+        const wrapper = document.createElement('div');
+        wrapper.className = 'changelog-item';
+
+        const title = document.createElement('strong');
+        title.textContent = `${scriptName} v${script.version || '??'} – ${script.authors || 'unbekannt'}`;
+        wrapper.appendChild(title);
+
+        const changes = toArray(script.changelog);
+
+        if (changes.length === 0) {
+          const p = document.createElement('p');
+          p.textContent = '(kein Changelog vorhanden)';
+          wrapper.appendChild(p);
+        } else {
+          const ul = document.createElement('ul');
+          changes.forEach(change => {
+            const li = document.createElement('li');
+            li.textContent = change;
+            ul.appendChild(li);
+          });
+          wrapper.appendChild(ul);
+        }
+
+        container.appendChild(wrapper);
+      });
+    })
+    .catch(err => {
+      console.error(err);
+      document.getElementById('changelog-container').textContent = 'Fehler beim Laden der Changelogs. Prüfe console.log.';
+    });
+</script>
+
+
+</body>
+</html>
