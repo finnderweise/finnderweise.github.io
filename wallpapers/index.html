@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LogicV | Tablet Pro-Wallpaper</title>
+  <link rel="icon" href="../logo2.png" type="image/png" />
+  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap" rel="stylesheet">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://logicv.de/wallpapers">
+    <meta property="og:title" content="LogicV reCORE | Tablet Pro-Wallpaper">
+    <meta property="og:description" content="Die Website von LogicV.">
+    <meta property="og:image" content="https://logicv.de/logo.png">
+
+
+  <style>
+    body {
+      margin: 0;
+      background-color: #121212;
+      color: #fff;
+      font-family: 'Atkinson Hyperlegible', sans-serif;
+    }
+    nav.tabs {
+      background-color: #1a1a1a;
+      display: flex;
+      align-items: center;
+      padding: 0.8rem 2rem;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.7);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+    }
+    nav.tabs .logo {
+      height: 40px;
+      flex-shrink: 0;
+    }
+    nav.tabs .tab-links {
+      display: flex;
+      gap: 2rem;
+      flex-grow: 1;
+      justify-content: center;
+    }
+    nav.tabs .tab-links a {
+      color: #bbb;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1.1rem;
+      padding: 0.5rem 0;
+      border-bottom: 3px solid transparent;
+      transition: color 0.3s ease, border-bottom-color 0.3s ease;
+    }
+    nav.tabs .tab-links a:hover,
+    nav.tabs .tab-links a:focus {
+      color: #049aff;
+    }
+    nav.tabs .tab-links a.active {
+      color: #049aff;
+      border-bottom-color: #049aff;
+    }
+    nav.tabs .tab-spacer {
+      width: 40px;
+    }
+    main {
+      padding: 2rem;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    h1 {
+      text-align: center;
+      color: #049aff;
+      margin-bottom: 2rem;
+    }
+    .wallpaper-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: 1.5rem;
+    }
+    .wallpaper-card {
+      background-color: #1f1f1f;
+      border-radius: 10px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+    }
+    .wallpaper-card img {
+      width: 100%;
+      display: block;
+    }
+    .wallpaper-card button {
+      background-color: #049aff;
+      border: none;
+      padding: 0.8rem;
+      cursor: pointer;
+      font-size: 1rem;
+      font-weight: bold;
+      color: #fff;
+      transition: background-color 0.3s ease;
+    }
+    .wallpaper-card button:hover {
+        background-color: #037cd1;
+    }
+    .wallpaper-image {
+        position: relative;
+    }
+
+    .wallpaper-image img {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+    .bg-image {
+        position: relative;
+        z-index: 1; /* Hintergrund */
+    }
+
+    .wallpaper-text {
+        position: absolute;
+        top: 7.5px;
+        left: 50%;
+        transform: translateX(-50%);
+        color: #ffffffc4;
+        font-size: 34px;
+        font-family: "Atkinson Hyperlegible", sans-serif;
+        font-weight: 800;
+        z-index: 2; /* über dem Hauptbild, aber unter dem Vordergrund */
+    }
+
+    .fg-image {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: auto;
+        z-index: 3; /* ganz oben */
+        pointer-events: none; /* Klicks gehen durch */
+    }
+  </style>
+</head>
+<body>
+  <nav class="tabs">
+    <a href="../../index.html">
+      <img src="../logo.png" alt="LogicV Logo" class="logo" />
+    </a>
+    <div class="tab-links">
+      <a href="../../index.html">Home</a>
+      <a href="../changelogs/index.html">Script-Changelogs</a>
+      <a href="index.html" class="active">Tablet Pro-Wallpaper</a>
+    </div>
+    <div class="tab-spacer"></div>
+  </nav>
+
+  <main>
+    <h1>Wähle ein Pro-Wallpaper zum Import<br>in den FdW-Tablet Wallpaper Creator</h1>
+    <div class="wallpaper-grid">
+      
+    <div class="wallpaper-card">
+        <div class="wallpaper-image">
+            <!-- Hauptbild -->
+            <img class="bg-image" src="../fdw-tablet/rainerle.png" alt="Schnee-Rainerle" />
+
+            <!-- Text -->
+            <span class="wallpaper-text">14:30</span>
+
+            <!-- Vordergrund-Bild -->
+            <img class="fg-image" src="../fdw-tablet/rainerle2.png" alt="Schnee-Rainerle" />
+        </div>
+
+        <button onclick="copyLink('https://logicv.de/fdw-tablet/pro-wp/schnee-rainerle.json')">
+            Link kopieren
+        </button>
+    </div>
+
+
+
+
+      
+    </div>
+  </main>
+
+  <script>
+    function copyLink(url) {
+      navigator.clipboard.writeText(url).then(() => {
+        alert('Link kopiert: ' + url);
+      }).catch(err => {
+        console.error('Kopieren fehlgeschlagen', err);
+      });
+    }
+  </script>
+</body>
+</html>
