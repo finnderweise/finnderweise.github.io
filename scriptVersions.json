@@ -1,7 +1,7 @@
 {
   "fdw-tablet": {
     "version": "1.0-pre1",
-    "changelog": "Weitere Überarbeitungen an verschiedensten Apps und Kern-Funktionen vom Tablet, darunter ein Redesign der Maze Bank-App. Hierbei handelt es sich um die erste nicht-Beta-Version der Tablet-Software! 🎉",
+    "changelog": "Ein Redesign der Maze Bank-App und einige andere Quality of Life-Änderungen. Hierbei handelt es sich um die erste nicht-Beta-Version der Tablet-Software.",
     "authors": "finnderweise",
     "icon": "https://finnderweise.github.io/fdw-tablet/os1.png"
   },
