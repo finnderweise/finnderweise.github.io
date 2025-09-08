@@ -6,14 +6,14 @@
     "icon": "https://finnderweise.github.io/fdw-tablet/os1.png"
   },
   "fdw-hud": {
-    "version": "1.0-rc8",
-    "changelog": "Dieses Update fügt verschiedene neue Funktionen hinzu, darunter eine Anzeige des Fahrzeugmodells beim Einsteigen in Fahrzeuge.",
+    "version": "1.0-rc9",
+    "changelog": "Dieses Update fügt eine neue Schriftart und Unterstützung für das ESX-Framework hinzu.",
     "authors": "finnderweise",
     "icon": ""
   },
   "fdw-lib": {
-    "version": "0.1",
-    "changelog": "Erster Release.",
+    "version": "0.2",
+    "changelog": "Dieses Update fügt ein vollständiges Notify-System und Unterstützung für das ESX-Framework hinzu.",
     "authors": "finnderweise",
     "icon": ""
   }
