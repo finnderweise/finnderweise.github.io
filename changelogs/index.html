@@ -131,7 +131,7 @@ nav.tabs .tab-spacer {
     return [String(changes)];
   }
 
-  fetch('https://finnderweise.github.ioe/scriptVersions.json')
+  fetch('https://finnderweise.github.io/scriptVersions.json')
     .then(resp => {
       if (!resp.ok) throw new Error('JSON konnte nicht geladen werden: ' + resp.status);
       return resp.json();
