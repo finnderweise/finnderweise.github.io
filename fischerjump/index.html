@@ -1,1 +1,60 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Fischer Jump - Beta</title>
+    <link rel="stylesheet" href="style.css">
 
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <div class="container">
+
+      <canvas id="canvas">
+        Aww, your browser doesn't support HTML5!
+      </canvas>
+
+      <div id="mainMenu">
+        <h1>fischer jump</h1>
+        <h3>werkstatt edition<br>version 0.1 - beta</h3>
+
+        <p class="info">
+          use
+          <span class="key left">←</span>
+          <span class="key right">→</span>
+          to move and space to (re) start...
+        </p>
+        <a class="button" href="javascript:init()">Play</a>
+      </div>
+
+      <div id="gameOverMenu">
+        <h1>game over!</h1>
+        <h3 id="go_score">you scored 0 points</h3>
+
+        <a class="button" href="javascript:reset()">Restart</a>
+        <a id="tweetBtn" target="_blank" class="button tweet" href="#" style="display: none;">Tweet score</a>
+
+        <a id="fbBtn" target="_blank" class="button fb" href="#" style="display: none;">Post on FB</a>
+      </div>
+
+      <!-- Preloading image ;) -->
+      <img id="sprite" src="2WEhF.png"/>
+
+      <div id="scoreBoard">
+        <p id="score">0</p>
+      </div>
+
+    </div>
+
+    <div class="noticeContainer" >
+        <div class="notice">
+          <div class="noticeTitle">Willkommen zur Beta von "Fischer Jump"!</div>
+          <div class="noticeSubtitle">Das ist eine verbesserte Version eines Open-Source-Projektes bzw. einem Klon von "Doodle Jump" in HTML, CSS, und JS. Viel Spaß!</div>
+
+          <div class="noticeBtn" onclick="closeNotice()">Fortfahren</div>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>
