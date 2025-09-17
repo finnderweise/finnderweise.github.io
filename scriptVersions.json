@@ -16,5 +16,11 @@
     "changelog": "Dieses Update fügt ein vollständiges Notify-System und Unterstützung für das ESX-Framework hinzu.",
     "authors": "finnderweise",
     "icon": ""
+  },
+  "Fischer Jump (JS-Code)": {
+    "version": "0.1",
+    "changelog": "Initialer Release.",
+    "authors": "finnderweise",
+    "icon": ""
   }
 }
