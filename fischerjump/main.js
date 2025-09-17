@@ -1,4 +1,4 @@
-var codeV = "0.2 - beta"
+var codeV = "0.2.1 - beta"
 
 // RequestAnimFrame: a browser API for getting smooth animations
 window.requestAnimFrame = (function() {
@@ -12,7 +12,6 @@ let lastFrameTime = 0;
 const fpsInterval = 1000 / 80; // Limit to 80 frames per second
 
 var goSoundPlayed = false
-var toolBtnBusy = false
 
 let canPlaySound = false;
 setTimeout(() => {
@@ -471,6 +470,9 @@ function init() {
     else if(player.y + player.height > height) {
       showGoMenu();
       console.log("DEBUG: Opened game over screen.")
+      if (canPlaySound) {
+        new Audio("end.ogg").play();
+      }
       hideScore();
       player.isDead = "lol";
       goSoundPlayed = false
@@ -690,51 +692,39 @@ menuLoop = function(timestamp) {
 requestAnimFrame(menuLoop);
 
 function expandToolBtn() {
-  if (!toolBtnBusy == true) {
-    toolBtnBusy = true
-    $(".toolBtn").css("animation", "toolBtnExpand 0.6s")
-    $(".toolBtn").addClass("expanded")
-  
-    $(".toolBtnC1").css("animation", "cOut 0.4s")
-  
-    setTimeout(function(){
-      $(".toolBtnC1").css("animation", "none")
-      $(".toolBtnC1").hide()
-    }, 380);
-  
-    setTimeout(function(){
-      $(".toolBtnC2").show()
-      $(".toolBtnC2").css("animation", "cIn 0.4s")
-    }, 200);
-  
-    setTimeout(function(){
-      toolBtnBusy = false
-    }, 610);
-  }
+  $(".toolBtn").css("animation", "toolBtnExpand 0.6s")
+  $(".toolBtn").addClass("expanded")
+
+  $(".toolBtnC1").css("animation", "cOut 0.4s")
+
+  setTimeout(function(){
+    $(".toolBtnC1").css("animation", "none")
+    $(".toolBtnC1").hide()
+    
+  }, 380);
+
+  setTimeout(function(){
+    $(".toolBtnC2").show()
+    $(".toolBtnC2").css("animation", "cIn 0.4s")
+  }, 200);
 }
 
 function collapseToolBtn() {
-  if (!toolBtnBusy == true) {
-    toolBtnBusy = true
-    $(".toolBtn").css("animation", "toolBtnCollapse 0.6s")
-    $(".toolBtn").removeClass("expanded")
-  
-    $(".toolBtnC2").css("animation", "cOut 0.4s")
-  
-    setTimeout(function(){
-      $(".toolBtnC2").css("animation", "none")
-      $(".toolBtnC2").hide()
-    }, 380);
-  
-    setTimeout(function(){
-      $(".toolBtnC1").show()
-      $(".toolBtnC1").css("animation", "cIn 0.4s")
-    }, 200);
-  
-    setTimeout(function(){
-      toolBtnBusy = false
-    }, 610);
-  }
+  $(".toolBtn").css("animation", "toolBtnCollapse 0.6s")
+  $(".toolBtn").removeClass("expanded")
+
+  $(".toolBtnC2").css("animation", "cOut 0.4s")
+
+  setTimeout(function(){
+    $(".toolBtnC2").css("animation", "none")
+    $(".toolBtnC2").hide()
+    
+  }, 380);
+
+  setTimeout(function(){
+    $(".toolBtnC1").show()
+    $(".toolBtnC1").css("animation", "cIn 0.4s")
+  }, 200);
 }
 
 function openLink(id) {
