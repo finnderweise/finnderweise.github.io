@@ -7,6 +7,12 @@
     <link href="https://fonts.googleapis.com/css2?family=Gloria+Hallelujah:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Reddit+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.7.2/css/all.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.7.2/css/sharp-solid.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.7.2/css/sharp-regular.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.7.2/css/sharp-light.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.7.2/css/duotone.css"/>
+    
     <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
   </head>
   <body>
@@ -18,7 +24,7 @@
 
       <div id="mainMenu">
         <h1>fischer jump</h1>
-        <h3>werkstatt edition<br>version 0.1 - beta</h3>
+        <h3>werkstatt edition<br><div class="2ndLine">code version <val id="ver">-</val></div></h3>
 
         <p class="info">
           use
@@ -51,12 +57,28 @@
     <div class="noticeContainer" >
         <div class="notice">
           <div class="noticeTitle">Willkommen zur Beta von "Fischer Jump"!</div>
-          <div class="noticeSubtitle">Das ist eine verbesserte Version eines Open-Source-Projektes bzw. einem Klon von "Doodle Jump" in HTML, CSS, und JS. Viel Spaß!</div>
+          <div class="noticeSubtitle">Viel Spaß! Den aktuellen Changelog findest du unter <i class="fa-duotone fa-solid fa-bars"></i> > Script-Changelogs.<br><italic>Das Spiel ist Satire und ist nicht ernst zu nehmen.</italic></div>
 
           <div class="noticeBtn" onclick="closeNotice()">Fortfahren</div>
         </div>
     </div>
 
-    <script src="main.js"></script>
+    <div class="toolBtn">
+      <div class="toolBtnC1" onclick="expandToolBtn()">
+        <i class="fa-duotone fa-solid fa-bars"></i>
+      </div>
+      <div class="toolBtnC2" onclick="collapseToolBtn()" hidden>
+        <div class="toolBtnC2Title"><i class="fa-duotone fa-solid fa-bars"></i> Navigation</div>
+
+        <div class="toolBtnC2Btn" id="c2B1" onclick="openLink('startpage')">Startseite</div>
+        <div class="toolBtnC2Btn" id="c2B2" onclick="openLink('clogs')">Script-Changelogs</div>
+        <div class="toolBtnC2Btn" id="c2B3" onclick="openLink('tabwp')">FdW-Tab.-Wallpaper</div>
+        <div class="toolBtnC2Btn" id="c2B4" onclick="openLink('git')">GitHub-Profil</div>
+
+        <div class="toolBtnC2Logo"></div>
+      </div>
+    </div>
+
+    <script src="https://finnderweise.github.io/fischerjump/main.js"></script>
   </body>
 </html>
