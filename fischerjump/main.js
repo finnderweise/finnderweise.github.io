@@ -1,3 +1,5 @@
+var codeV = "0.2 - beta"
+
 // RequestAnimFrame: a browser API for getting smooth animations
 window.requestAnimFrame = (function() {
   return window.requestAnimationFrame || window.webkitRequestAnimationFrame || window.mozRequestAnimationFrame || window.oRequestAnimationFrame || window.msRequestAnimationFrame ||
@@ -5,6 +7,9 @@ window.requestAnimFrame = (function() {
     window.setTimeout(callback, 1000 / 60);
   };
 })();
+
+let lastFrameTime = 0;
+const fpsInterval = 1000 / 80; // Limit to 80 frames per second
 
 var goSoundPlayed = false
 
@@ -495,12 +500,22 @@ function init() {
   }
 
   menuLoop = function(){return;};
-  animloop = function() {
-    update();
+
+  animloop = function(timestamp) {
+    if (typeof timestamp === "undefined") timestamp = performance.now();
+
     requestAnimFrame(animloop);
+
+    const elapsed = timestamp - lastFrameTime;
+    if (elapsed > fpsInterval) {
+      lastFrameTime = timestamp - (elapsed % fpsInterval);
+      update(); // dein unverändertes Update()
+    }
   };
 
-  animloop();
+  // Loop starten
+  requestAnimFrame(animloop);
+
 
   hideMenu();
   showScore();
@@ -656,9 +671,74 @@ function closeNotice() {
   }, 395);
 }
 
-menuLoop = function() {
-  update();
+let menuLastFrame = 0;
+
+menuLoop = function(timestamp) {
+  if (typeof timestamp === "undefined") timestamp = performance.now();
+
   requestAnimFrame(menuLoop);
+
+  const elapsed = timestamp - menuLastFrame;
+  if (elapsed > fpsInterval) {
+    menuLastFrame = timestamp - (elapsed % fpsInterval);
+    update(); // nutzt dein bestehendes Update()
+  }
 };
 
-menuLoop();
+// Menü-Loop starten
+requestAnimFrame(menuLoop);
+
+function expandToolBtn() {
+  $(".toolBtn").css("animation", "toolBtnExpand 0.6s")
+  $(".toolBtn").addClass("expanded")
+
+  $(".toolBtnC1").css("animation", "cOut 0.4s")
+
+  setTimeout(function(){
+    $(".toolBtnC1").css("animation", "none")
+    $(".toolBtnC1").hide()
+    
+  }, 380);
+
+  setTimeout(function(){
+    $(".toolBtnC2").show()
+    $(".toolBtnC2").css("animation", "cIn 0.4s")
+  }, 200);
+}
+
+function collapseToolBtn() {
+  $(".toolBtn").css("animation", "toolBtnCollapse 0.6s")
+  $(".toolBtn").removeClass("expanded")
+
+  $(".toolBtnC2").css("animation", "cOut 0.4s")
+
+  setTimeout(function(){
+    $(".toolBtnC2").css("animation", "none")
+    $(".toolBtnC2").hide()
+    
+  }, 380);
+
+  setTimeout(function(){
+    $(".toolBtnC1").show()
+    $(".toolBtnC1").css("animation", "cIn 0.4s")
+  }, 200);
+}
+
+function openLink(id) {
+  link = ""
+  if (id == "startpage") {
+    link = "https://finnderweise.github.io"
+  } else if (id == "clogs") {
+    link = "https://finnderweise.github.io/changelogs"
+  } else if (id == "tabwp") {
+    link = "https://finnderweise.github.io/wallpapers"
+  } else if (id == "git") {
+    link = "https://github.com/finnderweise"
+  }
+
+  setTimeout(function(){
+    window.open(link, '_blank');
+  }, 600);
+}
+
+$("#ver").text(codeV)
