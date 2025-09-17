@@ -18,8 +18,11 @@
     "icon": ""
   },
   "Fischer Jump (JS-Code)": {
-    "version": "0.1",
-    "changelog": "Initialer Release.",
+    "version": "0.2",
+    "changelog": {
+      "FPS auf 80 beschränkt, um den Game-Speed auf Monitoren mit hoher Bildwiederholrate zu beheben.",
+      "Neues Menü (Navigation) unten links hinzugefügt.",
+    },
     "authors": "finnderweise",
     "icon": ""
   }
