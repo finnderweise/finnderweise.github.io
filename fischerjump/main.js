@@ -12,6 +12,7 @@ let lastFrameTime = 0;
 const fpsInterval = 1000 / 80; // Limit to 80 frames per second
 
 var goSoundPlayed = false
+var toolBtnBusy = false
 
 let canPlaySound = false;
 setTimeout(() => {
@@ -689,6 +690,7 @@ menuLoop = function(timestamp) {
 requestAnimFrame(menuLoop);
 
 function expandToolBtn() {
+  toolBtnBusy = true
   $(".toolBtn").css("animation", "toolBtnExpand 0.6s")
   $(".toolBtn").addClass("expanded")
 
@@ -697,16 +699,20 @@ function expandToolBtn() {
   setTimeout(function(){
     $(".toolBtnC1").css("animation", "none")
     $(".toolBtnC1").hide()
-    
   }, 380);
 
   setTimeout(function(){
     $(".toolBtnC2").show()
     $(".toolBtnC2").css("animation", "cIn 0.4s")
   }, 200);
+
+  setTimeout(function(){
+    toolBtnBusy = false
+  }, 610);
 }
 
 function collapseToolBtn() {
+  toolBtnBusy = true
   $(".toolBtn").css("animation", "toolBtnCollapse 0.6s")
   $(".toolBtn").removeClass("expanded")
 
@@ -715,13 +721,16 @@ function collapseToolBtn() {
   setTimeout(function(){
     $(".toolBtnC2").css("animation", "none")
     $(".toolBtnC2").hide()
-    
   }, 380);
 
   setTimeout(function(){
     $(".toolBtnC1").show()
     $(".toolBtnC1").css("animation", "cIn 0.4s")
   }, 200);
+
+  setTimeout(function(){
+    toolBtnBusy = false
+  }, 610);
 }
 
 function openLink(id) {
