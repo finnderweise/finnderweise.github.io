@@ -11,9 +11,18 @@
     "authors": "finnderweise",
     "icon": ""
   },
+  "fdw-core": {
+    "version": "0.3",
+    "changelog": "Diese Version fügt ein neues About-Menü (/fdw) ein und ändert den Script-Namen auf FdW Core.",
+    "authors": "finnderweise",
+    "icon": ""
+  },
   "fdw-lib": {
-    "version": "0.2",
-    "changelog": "Dieses Update fügt ein vollständiges Notify-System und Unterstützung für das ESX-Framework hinzu.",
+    "version": "0.3",
+    "changelog": [
+      "ACHTUNG! Der Script-Name wurde geändert.",
+      "Dieser Eintrag ist temporär und dient nur zur Unterstützung der Update Checker alter Script-Versionen."
+    ],
     "authors": "finnderweise",
     "icon": ""
   },
