@@ -6,8 +6,14 @@
     "icon": "https://finnderweise.github.io/fdw-tablet/os1.png"
   },
   "fdw-hud": {
-    "version": "1.0-rc9",
-    "changelog": "Dieses Update fügt eine neue Schriftart und Unterstützung für das ESX-Framework hinzu.",
+    "version": "1.0-rc10",
+    "changelog": [
+      "HUD-Einstellungen (/hud) komplett überarbeitet.",
+      "Neue Einstellung: Erweiterter Nachtmodus. Diese Einstellung macht das HUD bei Nacht deutlich heller.",
+      "Neue Einstellung: Performance-Modus. Diese Einstellung reduziert die durch das HUD genutzte CPU-Leistung.",
+      "Neue Einstellung: Imperiale Geschwindigkeit (US-Einheiten). Diese Einstellung ersetzt km/h durch mph.",
+      "Es wurden Fehler mit dem Erstellen neuer HUD-Configs (in der Datenbank) behoben."
+    ],
     "authors": "finnderweise",
     "icon": ""
   },
