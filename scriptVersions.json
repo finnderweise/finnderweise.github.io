@@ -1,7 +1,7 @@
 {
   "fdw-tablet": {
-    "version": "1.0-pre1",
-    "changelog": "Ein Redesign der Maze Bank-App und einige andere Quality of Life-Änderungen. Hierbei handelt es sich um die erste nicht-Beta-Version der Tablet-Software.",
+    "version": "1.0",
+    "changelog": "Das FdW Tablet wurde eingestellt. Dieses Update gibt dem Tablet ein paar letzte Quality of Life-Änderungen und fügt Unterstützung für den FdW Core hinzu.",
     "authors": "finnderweise",
     "icon": "https://finnderweise.github.io/fdw-tablet/os1.png"
   },
@@ -12,6 +12,7 @@
       "Neue Einstellung: Erweiterter Nachtmodus. Diese Einstellung macht das HUD bei Nacht deutlich heller.",
       "Neue Einstellung: Performance-Modus. Diese Einstellung reduziert die durch das HUD genutzte CPU-Leistung.",
       "Neue Einstellung: Imperiale Geschwindigkeit (US-Einheiten). Diese Einstellung ersetzt km/h durch mph.",
+      "Einige Animationen verbessert.",
       "Es wurden Fehler mit dem Erstellen neuer HUD-Configs (in der Datenbank) behoben."
     ],
     "authors": "finnderweise",
