@@ -10,7 +10,6 @@
     "changelog": [
       "HUD-Einstellungen (/hud) komplett überarbeitet.",
       "Neue Einstellung: Erweiterter Nachtmodus. Diese Einstellung macht das HUD bei Nacht deutlich heller.",
-      "Neue Einstellung: Performance-Modus. Diese Einstellung reduziert die durch das HUD genutzte CPU-Leistung.",
       "Neue Einstellung: Imperiale Geschwindigkeit (US-Einheiten). Diese Einstellung ersetzt km/h durch mph.",
       "Einige Animationen verbessert.",
       "Es wurden Fehler mit dem Erstellen neuer HUD-Configs (in der Datenbank) behoben."
