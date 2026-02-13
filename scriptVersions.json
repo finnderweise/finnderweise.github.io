@@ -1,9 +1,9 @@
 {
   "fdw-tablet": {
-    "version": "1.67",
-    "changelog": "Timo Werner ist ein Hurensohn.",
+    "version": "1.0",
+    "changelog": "Das FdW Tablet wurde eingestellt. Dieses Update gibt dem Tablet ein paar letzte Quality of Life-Änderungen und fügt Unterstützung für den FdW Core hinzu.",
     "authors": "finnderweise",
-    "icon": "images/japankoi.png"
+    "icon": "https://finnderweise.github.io/fdw-tablet/os1.png"
   },
   "fdw-hud": {
     "version": "1.0-rc10",
