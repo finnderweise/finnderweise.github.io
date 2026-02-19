@@ -1,10 +1,4 @@
 {
-  "fdw-tablet": {
-    "version": "1.0",
-    "changelog": "Das FdW Tablet wurde eingestellt. Dieses Update gibt dem Tablet ein paar letzte Quality of Life-Änderungen und fügt Unterstützung für den FdW Core hinzu.",
-    "authors": "finnderweise",
-    "icon": "https://finnderweise.github.io/fdw-tablet/os1.png"
-  },
   "fdw-hud": {
     "version": "1.0-rc10",
     "changelog": [
@@ -17,22 +11,13 @@
     "authors": "finnderweise",
     "icon": ""
   },
-  "fdw-core": {
-    "version": "0.3",
-    "changelog": "Diese Version fügt ein neues About-Menü (/fdw) ein und ändert den Script-Namen auf FdW Core.",
+  "fdw-core_fivem": {
+    "version": "0.3.1",
+    "changelog": "Diese Version ändert die Namensgebung aufgrund des Wechsels auf HELIX.",
     "authors": "finnderweise",
     "icon": ""
   },
-  "fdw-lib": {
-    "version": "0.3",
-    "changelog": [
-      "ACHTUNG! Der Script-Name wurde geändert.",
-      "Dieser Eintrag ist temporär und dient nur zur Unterstützung der Update Checker alter Script-Versionen."
-    ],
-    "authors": "finnderweise",
-    "icon": ""
-  },
-  "Fischer Jump (JS-Code)": {
+  "Jump": {
     "version": "0.2.1",
     "changelog": [
       "Sound beim Öffnen des 'Game over'-Screen hinzugefügt."
